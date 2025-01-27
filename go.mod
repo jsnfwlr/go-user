@@ -1,1 +1,1 @@
-module github.com/mitchellh/go-homedir
+module github.com/jsnfwlr/go-user
